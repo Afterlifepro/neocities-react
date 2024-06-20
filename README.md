@@ -7,4 +7,4 @@ The compiled CSS is avaliable in the repo
 Comments are not preserved to either of them
 
 ## This repo is not on my neocities site yet
-[neocities](afterlifepro.neocities.org)
+[neocities](https://afterlifepro.neocities.org)
